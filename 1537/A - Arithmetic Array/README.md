@@ -1,0 +1,30 @@
+<h2><a href="https://codeforces.com/contest/1537/problem/A" target="_blank" rel="noopener noreferrer">1537A — Arithmetic Array</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 800 |
+| **Language** | C++23 (GCC 14-64, msys2) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 1537A](https://codeforces.com/contest/1537/problem/A) |
+
+## Topics
+`greedy` `math`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">A. Arithmetic Array</div><div class="time-limit"><div class="property-title">time limit per test</div>1 second</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>An array $$$b$$$ of length $$$k$$$ is called good if its arithmetic mean is equal to $$$1$$$. More formally, if $$$$$$\frac{b_1 + \cdots + b_k}{k}=1.$$$$$$</p><p>Note that the value $$$\frac{b_1+\cdots+b_k}{k}$$$ is not rounded up or down. For example, the array $$$[1,1,1,2]$$$ has an arithmetic mean of $$$1.25$$$, which is not equal to $$$1$$$.</p><p>You are given an integer array $$$a$$$ of length $$$n$$$. In an operation, you can append a <span class="tex-font-style-bf">non-negative</span> integer to the end of the array. What's the minimum number of operations required to make the array good?</p><p>We have a proof that it is always possible with finitely many operations.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line contains a single integer $$$t$$$ ($$$1 \leq t \leq 1000$$$) — the number of test cases. Then $$$t$$$ test cases follow.</p><p>The first line of each test case contains a single integer $$$n$$$ ($$$1 \leq n \leq 50$$$) — the length of the initial array $$$a$$$.</p><p>The second line of each test case contains $$$n$$$ integers $$$a_1,\ldots,a_n$$$ ($$$-10^4\leq a_i \leq 10^4$$$), the elements of the array.</p></div><div class="output-specification"><div class="section-title">Output</div><p>For each test case, output a single integer — the minimum number of non-negative integers you have to append to the array so that the arithmetic mean of the array will be exactly $$$1$$$.</p></div><div class="sample-tests"><div class="section-title">Example</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id008457671572320817" id="id003107116855940537" class="input-output-copier">Copy</div></div><pre id="id008457671572320817">4
+3
+1 1 1
+2
+1 2
+4
+8 4 6 2
+1
+-2
+</pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id0031959537789401415" id="id005405856002125713" class="input-output-copier">Copy</div></div><pre id="id0031959537789401415">0
+1
+16
+1
+</pre></div></div></div><div class="note"><div class="section-title">Note</div><p>In the first test case, we don't need to add any element because the arithmetic mean of the array is already $$$1$$$, so the answer is $$$0$$$.</p><p>In the second test case, the arithmetic mean is not $$$1$$$ initially so we need to add at least one more number. If we add $$$0$$$ then the arithmetic mean of the whole array becomes $$$1$$$, so the answer is $$$1$$$.</p><p>In the third test case, the minimum number of elements that need to be added is $$$16$$$ since only non-negative integers can be added.</p><p>In the fourth test case, we can add a single integer $$$4$$$. The arithmetic mean becomes $$$\frac{-2+4}{2}$$$ which is equal to $$$1$$$.</p></div>
