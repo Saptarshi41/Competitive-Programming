@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 108 | 18 |
+| 109 | 18 |
 
 ---
 
@@ -23,9 +23,9 @@
 - [dp](#dp) (3)
 - [games](#games) (6)
 - [geometry](#geometry) (2)
-- [greedy](#greedy) (43)
+- [greedy](#greedy) (44)
 - [implementation](#implementation) (27)
-- [math](#math) (59)
+- [math](#math) (60)
 - [number theory](#number-theory) (13)
 - [sortings](#sortings) (8)
 - [strings](#strings) (7)
@@ -196,6 +196,7 @@
 | 2266B | [Three Piles](https://codeforces.com/contest/2266/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2266/B%20-%20Three%20Piles/solution.cpp) |
 | 2266C | [AND, OR, Sort!](https://codeforces.com/contest/2266/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2266/C%20-%20AND%2C%20OR%2C%20Sort!/solution.cpp) |
 | 2267A | [Turn Into a Palindrome](https://codeforces.com/contest/2267/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2267/A%20-%20Turn%20Into%20a%20Palindrome/solution.cpp) |
+| 2269A | [SauSaGe Bank](https://codeforces.com/contest/2269/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2269/A%20-%20SauSaGe%20Bank/solution.cpp) |
 
 ### implementation
 
@@ -292,6 +293,7 @@
 | 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2259/B%20-%20Minus%20Two/solution.cpp) |
 | 2260B | [Monocarp and Projects](https://codeforces.com/contest/2260/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2260/B%20-%20Monocarp%20and%20Projects/solution.cpp) |
 | 2266B | [Three Piles](https://codeforces.com/contest/2266/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2266/B%20-%20Three%20Piles/solution.cpp) |
+| 2269A | [SauSaGe Bank](https://codeforces.com/contest/2269/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2269/A%20-%20SauSaGe%20Bank/solution.cpp) |
 
 ### number theory
 
