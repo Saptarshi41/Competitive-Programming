@@ -1,0 +1,23 @@
+<h2><a href="https://codeforces.com/contest/2110/problem/A" target="_blank" rel="noopener noreferrer">2110A — Fashionable Array</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 800 |
+| **Language** | C++23 (GCC 14-64, msys2) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 2110A](https://codeforces.com/contest/2110/problem/A) |
+
+## Topics
+`implementation` `sortings`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">A. Fashionable Array</div><div class="time-limit"><div class="property-title">time limit per test</div>1 second</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>In 2077, everything became fashionable among robots, even arrays...</p><p>We will call an array of integers $$$a$$$ <span class="tex-font-style-it">fashionable</span> if $$$\min(a) + \max(a)$$$ is divisible by $$$2$$$ without a remainder, where $$$\min(a)$$$ — the value of the minimum element of the array $$$a$$$, and $$$\max(a)$$$ — the value of the maximum element of the array $$$a$$$.</p><p>You are given an array of integers $$$a_1, a_2, \ldots, a_n$$$. In one operation, you can remove any element from this array. Your task is to determine the minimum number of operations required to make the array $$$a$$$ <span class="tex-font-style-it">fashionable</span>.</p></div><div class="input-specification"><div class="section-title">Input</div><p>Each test contains multiple test cases. The first line contains the number of test cases $$$t$$$ ($$$1 \le t \le 10^3$$$). The description of the test cases follows. </p><p>The first line of each test case contains one integer $$$n$$$ ($$$1 \leq n \leq 50$$$) — the size of the array $$$a$$$.</p><p>The second line of each test case contains $$$n$$$ integers $$$a_1, a_2, \ldots, a_n$$$ ($$$1 \leq a_i \leq 50$$$) — the elements of the array $$$a$$$.</p></div><div class="output-specification"><div class="section-title">Output</div><p>For each test case, output one integer — the minimum number of operations required to make the array $$$a$$$ <span class="tex-font-style-it">fashionable</span>.</p></div><div class="sample-tests"><div class="section-title">Example</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id004512913100470094" id="id00593586278193788" class="input-output-copier">Copy</div></div><pre id="id004512913100470094"><div class="test-example-line test-example-line-even test-example-line-0">6</div><div class="test-example-line test-example-line-odd test-example-line-1">2</div><div class="test-example-line test-example-line-odd test-example-line-1">5 2</div><div class="test-example-line test-example-line-even test-example-line-2">7</div><div class="test-example-line test-example-line-even test-example-line-2">3 1 4 1 5 9 2</div><div class="test-example-line test-example-line-odd test-example-line-3">7</div><div class="test-example-line test-example-line-odd test-example-line-3">2 7 4 6 9 11 5</div><div class="test-example-line test-example-line-even test-example-line-4">3</div><div class="test-example-line test-example-line-even test-example-line-4">1 2 1</div><div class="test-example-line test-example-line-odd test-example-line-5">2</div><div class="test-example-line test-example-line-odd test-example-line-5">2 1</div><div class="test-example-line test-example-line-even test-example-line-6">8</div><div class="test-example-line test-example-line-even test-example-line-6">8 6 3 6 4 1 1 6</div></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id00060961656850039625" id="id0011837972234546401" class="input-output-copier">Copy</div></div><pre id="id00060961656850039625">1
+0
+2
+1
+1
+3
+</pre></div></div></div><div class="note"><div class="section-title">Note</div><p>In the first test case, at least one element needs to be removed since $$$\min(a)+\max(a)=2+5=7$$$, and $$$7$$$ is not divisible by $$$2$$$. If any of the elements are removed, only one element will remain. Then $$$\max(a) + \min(a)$$$ will be divisible by $$$2$$$.</p><p>In the second test case, nothing needs to be removed since $$$\min(a)+\max(a)=1+9=10$$$, and $$$10$$$ is divisible by $$$2$$$.</p><p>In the third test case, you can remove the elements with values $$$2$$$ and $$$4$$$, then $$$\min(a)+\max(a)=5+11=16$$$, and $$$16$$$ is divisible by $$$2$$$.</p></div>
