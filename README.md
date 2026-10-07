@@ -6,15 +6,16 @@
 
 | Total Problems | Topics |
 |---|---|
-| 116 | 18 |
+| 120 | 19 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [binary search](#binary-search) (2)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (25)
+- [brute force](#brute-force) (27)
 - [chinese remainder theorem](#chinese-remainder-theorem) (1)
 - [combinatorics](#combinatorics) (1)
 - [constructive algorithms](#constructive-algorithms) (19)
@@ -23,15 +24,21 @@
 - [dp](#dp) (3)
 - [games](#games) (6)
 - [geometry](#geometry) (2)
-- [greedy](#greedy) (45)
+- [greedy](#greedy) (46)
 - [implementation](#implementation) (30)
-- [math](#math) (66)
+- [math](#math) (68)
 - [number theory](#number-theory) (15)
-- [sortings](#sortings) (9)
+- [sortings](#sortings) (10)
 - [strings](#strings) (7)
-- [two pointers](#two-pointers) (2)
+- [two pointers](#two-pointers) (3)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2275A | [In Search of Convenience](https://codeforces.com/contest/2275/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2275/A%20-%20In%20Search%20of%20Convenience/solution.cpp) |
 
 ### binary search
 
@@ -68,7 +75,9 @@
 | 1904A | [Forked!](https://codeforces.com/contest/1904/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/1904/A%20-%20Forked!/solution.cpp) |
 | 1931A | [Recovering a Small String](https://codeforces.com/contest/1931/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/1931/A%20-%20Recovering%20a%20Small%20String/solution.cpp) |
 | 1931C | [Make Equal Again](https://codeforces.com/contest/1931/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/1931/C%20-%20Make%20Equal%20Again/solution.cpp) |
+| 2111C | [Equal Values](https://codeforces.com/contest/2111/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2111/C%20-%20Equal%20Values/solution.cpp) |
 | 2137C | [Maximum Even Sum](https://codeforces.com/contest/2137/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2137/C%20-%20Maximum%20Even%20Sum/solution.cpp) |
+| 2171A | [Shizuku Hoshikawa and Farm Legs](https://codeforces.com/contest/2171/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2171/A%20-%20Shizuku%20Hoshikawa%20and%20Farm%20Legs/solution.cpp) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.cpp) |
 | 2250A | [Threshold Movement](https://codeforces.com/contest/2250/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2250/A%20-%20Threshold%20Movement/solution.cpp) |
 | 2257A | [Creating Abbreviations](https://codeforces.com/contest/2257/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2257/A%20-%20Creating%20Abbreviations/solution.cpp) |
@@ -185,6 +194,7 @@
 | 1931B | [Make Equal](https://codeforces.com/contest/1931/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/1931/B%20-%20Make%20Equal/solution.cpp) |
 | 1931C | [Make Equal Again](https://codeforces.com/contest/1931/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/1931/C%20-%20Make%20Equal%20Again/solution.cpp) |
 | 2007B | [Index and Maximum Value](https://codeforces.com/contest/2007/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2007/B%20-%20Index%20and%20Maximum%20Value/solution.cpp) |
+| 2111C | [Equal Values](https://codeforces.com/contest/2111/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2111/C%20-%20Equal%20Values/solution.cpp) |
 | 2137C | [Maximum Even Sum](https://codeforces.com/contest/2137/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2137/C%20-%20Maximum%20Even%20Sum/solution.cpp) |
 | 2157A | [Dungeon Equilibrium](https://codeforces.com/contest/2157/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2157/A%20-%20Dungeon%20Equilibrium/solution.cpp) |
 | 2169A | [Alice and Bob](https://codeforces.com/contest/2169/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2169/A%20-%20Alice%20and%20Bob/solution.cpp) |
@@ -294,6 +304,8 @@
 | 2137A | [Collatz Conjecture](https://codeforces.com/contest/2137/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2137/A%20-%20Collatz%20Conjecture/solution.cpp) |
 | 2137C | [Maximum Even Sum](https://codeforces.com/contest/2137/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2137/C%20-%20Maximum%20Even%20Sum/solution.cpp) |
 | 2166B | [Tab Closing](https://codeforces.com/contest/2166/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2166/B%20-%20Tab%20Closing/solution.cpp) |
+| 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2167/A%20-%20Square%3F/solution.cpp) |
+| 2171A | [Shizuku Hoshikawa and Farm Legs](https://codeforces.com/contest/2171/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2171/A%20-%20Shizuku%20Hoshikawa%20and%20Farm%20Legs/solution.cpp) |
 | 2217A | [The Equalizer](https://codeforces.com/contest/2217/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2217/A%20-%20The%20Equalizer/solution.cpp) |
 | 2217C | [Grid Covering](https://codeforces.com/contest/2217/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2217/C%20-%20Grid%20Covering/solution.cpp) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.cpp) |
@@ -340,6 +352,7 @@
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 | 2110A | [Fashionable Array](https://codeforces.com/contest/2110/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2110/A%20-%20Fashionable%20Array/solution.cpp) |
 | 2157A | [Dungeon Equilibrium](https://codeforces.com/contest/2157/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2157/A%20-%20Dungeon%20Equilibrium/solution.cpp) |
+| 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2167/A%20-%20Square%3F/solution.cpp) |
 | 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
 | 2267B | [Fashionable Array](https://codeforces.com/contest/2267/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2267/B%20-%20Fashionable%20Array/solution.cpp) |
 
@@ -360,6 +373,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1791C | [Prepend and Append](https://codeforces.com/contest/1791/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/1791/C%20-%20Prepend%20and%20Append/solution.cpp) |
+| 2111C | [Equal Values](https://codeforces.com/contest/2111/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2111/C%20-%20Equal%20Values/solution.cpp) |
 | 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.cpp) |
 
 ---
