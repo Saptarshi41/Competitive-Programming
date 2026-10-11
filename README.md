@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 126 | 19 |
+| 127 | 19 |
 
 ---
 
@@ -22,7 +22,7 @@
 - [data structures](#data-structures) (4)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (3)
-- [games](#games) (6)
+- [games](#games) (7)
 - [geometry](#geometry) (2)
 - [greedy](#greedy) (46)
 - [implementation](#implementation) (32)
@@ -156,6 +156,7 @@
 | 1858A | [Buttons](https://codeforces.com/contest/1858/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/1858/A%20-%20Buttons/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.cpp) |
+| 2263A | [Min Max Game](https://codeforces.com/contest/2263/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2263/A%20-%20Min%20Max%20Game/solution.cpp) |
 | 2266B | [Three Piles](https://codeforces.com/contest/2266/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2266/B%20-%20Three%20Piles/solution.cpp) |
 
 ### geometry
