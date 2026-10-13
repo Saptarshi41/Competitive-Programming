@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 127 | 19 |
+| 129 | 19 |
 
 ---
 
@@ -26,9 +26,9 @@
 - [geometry](#geometry) (2)
 - [greedy](#greedy) (46)
 - [implementation](#implementation) (32)
-- [math](#math) (69)
+- [math](#math) (71)
 - [number theory](#number-theory) (15)
-- [sortings](#sortings) (11)
+- [sortings](#sortings) (12)
 - [strings](#strings) (7)
 - [two pointers](#two-pointers) (4)
 
@@ -306,6 +306,7 @@
 | 1998B | [Minimize Equal Sum Subarrays](https://codeforces.com/contest/1998/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/1998/B%20-%20Minimize%20Equal%20Sum%20Subarrays/solution.cpp) |
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.cpp) |
 | 2051B | [Journey](https://codeforces.com/contest/2051/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2051/B%20-%20Journey/solution.cpp) |
+| 2093A | [Ideal Generator](https://codeforces.com/contest/2093/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2093/A%20-%20Ideal%20Generator/solution.cpp) |
 | 2125B | [Left and Down](https://codeforces.com/contest/2125/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2125/B%20-%20Left%20and%20Down/solution.cpp) |
 | 2137A | [Collatz Conjecture](https://codeforces.com/contest/2137/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2137/A%20-%20Collatz%20Conjecture/solution.cpp) |
 | 2137C | [Maximum Even Sum](https://codeforces.com/contest/2137/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2137/C%20-%20Maximum%20Even%20Sum/solution.cpp) |
@@ -321,6 +322,7 @@
 | 2241A | [Divide and Conquer](https://codeforces.com/contest/2241/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2241/A%20-%20Divide%20and%20Conquer/solution.cpp) |
 | 2250A | [Threshold Movement](https://codeforces.com/contest/2250/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2250/A%20-%20Threshold%20Movement/solution.cpp) |
 | 2253A | [The Best Card](https://codeforces.com/contest/2253/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2253/A%20-%20The%20Best%20Card/solution.cpp) |
+| 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.cpp) |
 | 2257B | [Gigantomachy](https://codeforces.com/contest/2257/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2257/B%20-%20Gigantomachy/solution.cpp) |
 | 2258A | [Odd Eraser](https://codeforces.com/contest/2258/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2258/A%20-%20Odd%20Eraser/solution.cpp) |
 | 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2259/B%20-%20Minus%20Two/solution.cpp) |
@@ -361,6 +363,7 @@
 | 2157A | [Dungeon Equilibrium](https://codeforces.com/contest/2157/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2157/A%20-%20Dungeon%20Equilibrium/solution.cpp) |
 | 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2167/A%20-%20Square%3F/solution.cpp) |
 | 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
+| 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.cpp) |
 | 2264A | [Rumb Needs a Hand](https://codeforces.com/contest/2264/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2264/A%20-%20Rumb%20Needs%20a%20Hand/solution.cpp) |
 | 2267B | [Fashionable Array](https://codeforces.com/contest/2267/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2267/B%20-%20Fashionable%20Array/solution.cpp) |
 
