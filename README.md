@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 132 | 19 |
+| 134 | 19 |
 
 ---
 
@@ -18,15 +18,15 @@
 - [brute force](#brute-force) (27)
 - [chinese remainder theorem](#chinese-remainder-theorem) (1)
 - [combinatorics](#combinatorics) (1)
-- [constructive algorithms](#constructive-algorithms) (19)
+- [constructive algorithms](#constructive-algorithms) (20)
 - [data structures](#data-structures) (4)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (3)
 - [games](#games) (7)
 - [geometry](#geometry) (2)
-- [greedy](#greedy) (48)
+- [greedy](#greedy) (49)
 - [implementation](#implementation) (32)
-- [math](#math) (74)
+- [math](#math) (75)
 - [number theory](#number-theory) (16)
 - [sortings](#sortings) (12)
 - [strings](#strings) (7)
@@ -119,6 +119,7 @@
 | 1992C | [Gorilla and Permutation](https://codeforces.com/contest/1992/problem/C) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/1992/C%20-%20Gorilla%20and%20Permutation/solution.cpp) |
 | 1998B | [Minimize Equal Sum Subarrays](https://codeforces.com/contest/1998/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/1998/B%20-%20Minimize%20Equal%20Sum%20Subarrays/solution.cpp) |
 | 2137A | [Collatz Conjecture](https://codeforces.com/contest/2137/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2137/A%20-%20Collatz%20Conjecture/solution.cpp) |
+| 2185A | [Perfect Root](https://codeforces.com/contest/2185/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2185/A%20-%20Perfect%20Root/solution.cpp) |
 | 2247A | [Zero Sum](https://codeforces.com/contest/2247/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2247/A%20-%20Zero%20Sum/solution.cpp) |
 | 2259C | [101](https://codeforces.com/contest/2259/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2259/C%20-%20101/solution.cpp) |
 | 2259D | [MEX Multiset](https://codeforces.com/contest/2259/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2259/D%20-%20MEX%20Multiset/solution.cpp) |
@@ -203,6 +204,7 @@
 | 2137C | [Maximum Even Sum](https://codeforces.com/contest/2137/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2137/C%20-%20Maximum%20Even%20Sum/solution.cpp) |
 | 2157A | [Dungeon Equilibrium](https://codeforces.com/contest/2157/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2157/A%20-%20Dungeon%20Equilibrium/solution.cpp) |
 | 2169A | [Alice and Bob](https://codeforces.com/contest/2169/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2169/A%20-%20Alice%20and%20Bob/solution.cpp) |
+| 2185B | [Prefix Max](https://codeforces.com/contest/2185/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2185/B%20-%20Prefix%20Max/solution.cpp) |
 | 2217B | [Flip the Bit (Easy Version)](https://codeforces.com/contest/2217/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2217/B%20-%20Flip%20the%20Bit%20(Easy%20Version)/solution.cpp) |
 | 2218B | [The 67th 6-7 Integer Problem](https://codeforces.com/contest/2218/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2218/B%20-%20The%2067th%206-7%20Integer%20Problem/solution.cpp) |
 | 2236A | [Games on the Train](https://codeforces.com/contest/2236/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2236/A%20-%20Games%20on%20the%20Train/solution.cpp) |
@@ -318,6 +320,7 @@
 | 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2167/A%20-%20Square%3F/solution.cpp) |
 | 2171A | [Shizuku Hoshikawa and Farm Legs](https://codeforces.com/contest/2171/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2171/A%20-%20Shizuku%20Hoshikawa%20and%20Farm%20Legs/solution.cpp) |
 | 2171B | [Yuu Koito and Minimum Absolute Sum](https://codeforces.com/contest/2171/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2171/B%20-%20Yuu%20Koito%20and%20Minimum%20Absolute%20Sum/solution.cpp) |
+| 2185A | [Perfect Root](https://codeforces.com/contest/2185/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2185/A%20-%20Perfect%20Root/solution.cpp) |
 | 2217A | [The Equalizer](https://codeforces.com/contest/2217/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2217/A%20-%20The%20Equalizer/solution.cpp) |
 | 2217C | [Grid Covering](https://codeforces.com/contest/2217/problem/C) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2217/C%20-%20Grid%20Covering/solution.cpp) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/Saptarshi41/Competitive-Programming/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.cpp) |
